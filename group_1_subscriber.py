@@ -3,7 +3,6 @@
 Expected publisher message:
 {"temperature": 22.5, "packet_id": 1, "timestamp": "2026-08-15 12:00:00"}
 
-This program uses Mosquitto's mosquitto_sub command. It does not use Paho.
 """
 
 import json
